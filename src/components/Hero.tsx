@@ -16,7 +16,6 @@ export const Hero: React.FC = () => {
 
     useEffect(() => {
         initParticlesEngine(async (engine) => {
-
             await loadSlim(engine);
 
         });
