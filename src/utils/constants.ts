@@ -70,10 +70,10 @@ export const menuElements = [
 
 export const SocialsData = [
   {
-    name: "Twitter",
-    src: "/icons/twitter-line.svg",
-    height : 30,
-    width : 30,
+    name: "X",
+    src: "/icons/x-logo.svg",
+    height : 26,
+    width : 26,
     href: "https://twitter.com/eesmaoruc",
   
   },

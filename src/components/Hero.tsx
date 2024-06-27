@@ -52,7 +52,7 @@ export const Hero: React.FC = () => {
                     </p>
                     <div>
 
-                        <a href="/cv.pdf" target="_blank">
+                        <a href="/resume.docx" target="_blank">
 
                             <button className="px-1 py-1 rounded-full w-full sm:w-fit mr-4 bg-gradient-to-br from-blue-500 via-purple-500 to-pink-500 transition ease-in-out delay-150 hover:-translate-y-1 hover:scale-110 duration-300">
                                 <span className="block bg-slate-900 rounded-full hover:bg-slate-800 px-5 py-2 text-white" >
