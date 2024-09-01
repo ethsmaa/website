@@ -167,7 +167,7 @@ export const ProjectsData = [
     title: "todo app",
     imgUrl: "/images/todo.png",
     description: "a simple todo app that needs further development.",
-    link: "https://react-todo-app-ojnb.vercel.app/",
+    link: "https://github.com/ethsmaa/MobileTodoApp",
     width: 300,
     height: 300,  
   },
